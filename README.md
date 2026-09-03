@@ -18,7 +18,7 @@ Building intelligent machines and engineering solutions.
 
 ## 👨‍💻 About Me
 
-I'm a Mechatronics Engineering student interested in building practical solutions at the intersection of **mechanical systems, electronics, programming, and automation**.
+I'm a **Mechatronics Engineering student** interested in building practical solutions at the intersection of mechanical systems, electronics, programming, and automation.
 
 My interests include **robotics, industrial automation, embedded systems, IoT, intelligent machines, and machine learning for engineering applications**.
 
@@ -41,31 +41,39 @@ I enjoy turning engineering concepts into working prototypes while continuously 
 
 ### 🔌 PulseLink
 
-ESP32-based real-time heart-rate monitoring system integrating sensors, IoT connectivity, and a web dashboard.
+An ESP32-based real-time heart-rate monitoring system integrating pulse sensing, IoT connectivity, and a web dashboard.
 
-### 🌐 Web Development Projects
+**Tech:** ESP32 • C++ • Sensors • IoT • Web Dashboard
 
-Practical websites and digital solutions developed for freelance and portfolio projects.
+**[View Project →](https://github.com/Mukil2K7/PulseLink)**
+
+---
+
+### 🌐 Web Development & Freelance Projects
+
+Practical websites and digital solutions developed for portfolio and freelance work.
+
+- **[Murugan Mess Website →](https://github.com/Mukil2K7/murugan-mess-website)**
+- **[BrightMinds Academy →](https://github.com/Mukil2K7/brightminds-academy)**
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Programming**
+### Programming
+**Python • Java • C/C++ • JavaScript**
 
-Python • Java • C/C++ • JavaScript
+### Engineering & Embedded Systems
+**ESP32 • Arduino • PLC • TIA Portal • Sensors • IoT • Embedded Systems**
 
-**Engineering & Embedded**
+### Design & Engineering Tools
+**SolidWorks**
 
-ESP32 • Arduino • PLC • TIA Portal • Sensors • IoT • Embedded Systems
+### Development Tools
+**Git • GitHub • VS Code**
 
-**Design & Development**
-
-SolidWorks  • Git • GitHub • VS Code
-
-**Web Development**
-
-HTML • CSS • JavaScript • TypeScript
+### Web Development
+**HTML • CSS • JavaScript • TypeScript**
 
 ---
 
@@ -82,9 +90,13 @@ HTML • CSS • JavaScript • TypeScript
 
 ## 💼 Freelance & Web Development
 
-I also build practical websites and digital solutions for personal, portfolio, and freelance projects.
+Alongside engineering, I build practical websites and digital solutions for **freelance, portfolio, and real-world applications**.
 
 ---
+
+## 🤝 Let's Connect
+
+I'm interested in **robotics, automation, embedded systems, engineering projects, software development, and freelance opportunities**.
 
 <div align="center">
 
